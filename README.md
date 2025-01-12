@@ -20,4 +20,4 @@ Welcome to the official website of **INEZA Cooperative Rwanda**, a platform dedi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ineza-cooperative.git
+   git clone https://github.com/dadishimwe/ineza-cooperative.git
